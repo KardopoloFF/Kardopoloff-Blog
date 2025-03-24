@@ -3,8 +3,8 @@ frontend/node_modules
 
 backend/.env.development
 backend/.env.production
-frontend/.env.development
 frontend/.env.production
+frontend/.env.development
 
 *.log
 *.cache
